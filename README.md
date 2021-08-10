@@ -1,4 +1,4 @@
-# sorta_learning_series_1 (Learning 2)
+# sorta_learning_series (Learning 2- Bottom Navigation Bar)
 
 A project based on learning differnt concept of flutter.
 
